@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Siddhant Jain 👋
 
-<!--
-**jainsiddhant26/jainsiddhant26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Product Manager | AI Builder | Data & Analytics Enthusiast
 
-Here are some ideas to get you started:
+## About me
+- Product Management Fellow at NextLeap
+- Building AI-powered products and portfolio projects
+- Interested in AI agents, research tools, analytics, and user-centric product design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### ScholarMind AI
+AI research assistant that searches academic papers, summarizes findings, detects research gaps, and remembers user interests.
+
+- Live Demo: [Add your link]
+- Repository: [Add your repo link]
+
+## Skills
+- Product Management
+- User Research
+- Python
+- SQL
+- Streamlit
+- Supabase
+- FastAPI
+- Git/GitHub
+
+## Currently Exploring
+- AI agents
+- RAG systems
+- Product case studies
+- PM interview prep
+
