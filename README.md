@@ -25,6 +25,7 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ### 🤖 AI Products
 | Project | Description | Stack |
 |---|---|---|
+| [🏠 Hindustan Realty AI](https://github.com/jainsiddhant26/AI-Real-Estate-Agent-Team) | Multi-agent property search & investment advisor for Indian real estate — live app | Python, Groq, LLaMA 3.3 70B, Firecrawl, Agno, Streamlit |
 | [News Intel Platform](https://github.com/jainsiddhant26/news-intel-platform) | Real-time financial news monitoring with Multi-Agent AI + RAG | Python, Groq, FinBERT, ChromaDB, Streamlit |
 | [ScholarMind](https://github.com/jainsiddhant26/ScholarMind-AI-Research-Intelligence-Hub) | AI Research Intelligence Hub — find papers, detect gaps, remember user interests | Python, RAG, LLM |
 
