@@ -27,7 +27,7 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 |---|---|---|
 | [🎧 AI Audio Tour Guide](https://github.com/jainsiddhant26/ai-audio-tour) | Multi-agent app that generates a personalized narrated audio tour of any landmark in seconds — [**Live App ↗**](https://ai-audio-tour-bijsbruz3ary4bjt3dofjy.streamlit.app/) | Python, CrewAI, Groq, LLaMA 3.3 70B, Edge-TTS, Streamlit |
 | [🏠 Hindustan Realty AI](https://github.com/jainsiddhant26/AI-Real-Estate-Agent-Team) | Multi-agent property search & investment advisor for Indian real estate — [**Live App ↗**](https://hindustan-realty-ai.streamlit.app/) | Python, Groq, LLaMA 3.3 70B, Firecrawl, Agno, Streamlit |
-| [News Intel Platform](https://github.com/jainsiddhant26/news-intel-platform) | Real-time financial news monitoring with Multi-Agent AI + RAG | Python, Groq, FinBERT, ChromaDB, Streamlit |
+| [📰 News Intel Platform](https://github.com/jainsiddhant26/news-intel-platform) | Real-time financial news monitoring with Multi-Agent AI + RAG — RAG pipeline too heavy for free-tier hosting — run locally | Python, Groq, FinBERT, ChromaDB, Streamlit |
 | [🧠 ScholarMind](https://github.com/jainsiddhant26/ScholarMind-AI-Research-Intelligence-Hub) | AI Research Intelligence Hub — find papers, detect gaps, remember user interests — [**Live App ↗**](https://scholarmind-ai-research-intelligence-app-gxw3bvvb3mbxmhjg4k5cr.streamlit.app/) | Python, RAG, Groq, Supabase, Streamlit |
 
 ### 📋 PM Portfolio
