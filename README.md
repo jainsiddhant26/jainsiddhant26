@@ -25,6 +25,7 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ### 🤖 AI Products
 | Project | Description | Stack |
 |---|---|---|
+| [🎧 AI Audio Tour Guide](https://github.com/jainsiddhant26/ai-audio-tour) | Multi-agent app that generates a personalized narrated audio tour of any landmark in seconds — [**Live App ↗**](https://ai-audio-tour-bijsbruz3ary4bjt3dofjy.streamlit.app/) | Python, CrewAI, Groq, LLaMA 3.3 70B, Edge-TTS, Streamlit |
 | [🏠 Hindustan Realty AI](https://github.com/jainsiddhant26/AI-Real-Estate-Agent-Team) | Multi-agent property search & investment advisor for Indian real estate — live app | Python, Groq, LLaMA 3.3 70B, Firecrawl, Agno, Streamlit |
 | [News Intel Platform](https://github.com/jainsiddhant26/news-intel-platform) | Real-time financial news monitoring with Multi-Agent AI + RAG | Python, Groq, FinBERT, ChromaDB, Streamlit |
 | [ScholarMind](https://github.com/jainsiddhant26/ScholarMind-AI-Research-Intelligence-Hub) | AI Research Intelligence Hub — find papers, detect gaps, remember user interests | Python, RAG, LLM |
@@ -32,10 +33,10 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ### 📋 PM Portfolio
 | Project | Description |
 |---|---|
-| [🎙️ ChatGPT India Voice Strategy](https://github.com/jainsiddhant26/chatgpt-india-voice-strategy) | End-to-end PM case study — market strategy, user survey (n=60), problem framing & PRD for a Review-Before-Send voice feature · [**Live Prototype ↗**](https://chat-confirm-buddy.lovable.app) |
+| [🎤 ChatGPT India Voice Strategy](https://github.com/jainsiddhant26/chatgpt-india-voice-strategy) | End-to-end PM case study — market strategy, user survey (n=60), problem framing & PRD for a Review-Before-Send voice feature · [**Live Prototype ↗**](https://chat-confirm-buddy.lovable.app) |
 | [Telegram Smart Follow-up PRD](https://github.com/jainsiddhant26/telegram-smart-followup-prd) | Feature PRD for auto-detecting unanswered chats and suggesting smart follow-up reminders · [**Figma Prototype ↗**](https://www.figma.com/make/ppSdqlWkgVEKMrFq1AHOSa/Telegram-Smart-Follow-Up-Reminders?fullscreen=1&t=DAPeMRaTAXhXOlq3-1) |
-| [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb’s booking journey, UX decisions, and improvement opportunities |
-| [Make.com Onboarding Teardown](https://github.com/jainsiddhant26/make-onboarding-product-teardown) | Activation flow analysis and friction mapping for Make.com’s onboarding |
+| [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb's booking journey, UX decisions, and improvement opportunities |
+| [Make.com Onboarding Teardown](https://github.com/jainsiddhant26/make-onboarding-product-teardown) | Activation flow analysis and friction mapping for Make.com's onboarding |
 | [Nutrition App Wireframes](https://github.com/jainsiddhant26/nutrition-tracking-app-wireframes) | Mid-fidelity wireframes for onboarding, goal setup, and daily food logging |
 
 ### 📊 Data & Analytics Projects
