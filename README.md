@@ -34,8 +34,8 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 |---|---|
 | [🎙️ ChatGPT India Voice Strategy](https://github.com/jainsiddhant26/chatgpt-india-voice-strategy) | End-to-end PM case study — market strategy, user survey (n=60), problem framing & PRD for a Review-Before-Send voice feature · [**Live Prototype ↗**](https://chat-confirm-buddy.lovable.app) |
 | [Telegram Smart Follow-up PRD](https://github.com/jainsiddhant26/telegram-smart-followup-prd) | Feature PRD for auto-detecting unanswered chats and suggesting smart follow-up reminders · [**Figma Prototype ↗**](https://www.figma.com/make/ppSdqlWkgVEKMrFq1AHOSa/Telegram-Smart-Follow-Up-Reminders?fullscreen=1&t=DAPeMRaTAXhXOlq3-1) |
-| [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb's booking journey, UX decisions, and improvement opportunities |
-| [Make.com Onboarding Teardown](https://github.com/jainsiddhant26/make-onboarding-product-teardown) | Activation flow analysis and friction mapping for Make.com's onboarding |
+| [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb’s booking journey, UX decisions, and improvement opportunities |
+| [Make.com Onboarding Teardown](https://github.com/jainsiddhant26/make-onboarding-product-teardown) | Activation flow analysis and friction mapping for Make.com’s onboarding |
 | [Nutrition App Wireframes](https://github.com/jainsiddhant26/nutrition-tracking-app-wireframes) | Mid-fidelity wireframes for onboarding, goal setup, and daily food logging |
 
 ### 📊 Data & Analytics
@@ -67,10 +67,22 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ![Lovable](https://img.shields.io/badge/Lovable-FF69B4?logo=heart&logoColor=white)
 ![Bolt](https://img.shields.io/badge/Bolt-FFD700?logo=bolt&logoColor=black)
 
+**Vibe Coding**
+
+![Windsurf](https://img.shields.io/badge/Windsurf-0A84FF?logo=codeium&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+
+**AI & Research Tools**
+
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
 **Analytics & Metrics**
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-000000?logo=amplitude&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 **PM Skills:** Product Strategy · User Research · PRD Writing · Product Teardowns · Wireframing · Metrics & KPIs · Competitive Analysis
 
