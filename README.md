@@ -48,13 +48,29 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 
 ## 🛠️ Skills
 
+**Languages & Engineering**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**Frameworks & Infrastructure**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+**Product & Design Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?logo=heart&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-FFD700?logo=bolt&logoColor=black)
+
+**Analytics & Metrics**
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-000000?logo=amplitude&logoColor=white)
 
 **PM Skills:** Product Strategy · User Research · PRD Writing · Product Teardowns · Wireframing · Metrics & KPIs · Competitive Analysis
 
