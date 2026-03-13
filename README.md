@@ -106,12 +106,6 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-**Analytics & Metrics**
-
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-000000?logo=amplitude&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
 **PM Skills:** Product Strategy · User Research · PRD Writing · Product Teardowns · Wireframing · Metrics & KPIs · Competitive Analysis
 
 ---
