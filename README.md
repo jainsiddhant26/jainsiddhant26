@@ -38,7 +38,7 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 | [Make.com Onboarding Teardown](https://github.com/jainsiddhant26/make-onboarding-product-teardown) | Activation flow analysis and friction mapping for Make.com’s onboarding |
 | [Nutrition App Wireframes](https://github.com/jainsiddhant26/nutrition-tracking-app-wireframes) | Mid-fidelity wireframes for onboarding, goal setup, and daily food logging |
 
-### 📊 Data & Analytics
+### 📊 Data & Analytics Projects
 | Project | Description | Stack |
 |---|---|---|
 | [Big Data Engineering Capstone](https://github.com/jainsiddhant26/-Big_Data_Engineering_Capstone) | End-to-end ETL pipeline with clustering and analytics | PySpark, Hive, HBase, MySQL, Hadoop |
@@ -46,7 +46,48 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 
 ---
 
-## 📊 Data Analytics Skills
+## 🛠️ Skills
+
+### 🤖 AI & Product Management
+
+> **The core of what I do** — building AI-powered products with strong user empathy and data-driven thinking.
+
+**PM Skills:** Product Strategy · User Research · PRD Writing · Product Teardowns · Wireframing · Metrics & KPIs · Competitive Analysis · AI Product Thinking
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?logo=heart&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-FFD700?logo=bolt&logoColor=black)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-000000?logo=amplitude&logoColor=white)
+
+---
+
+### 💻 Languages & Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### ⚙️ Frameworks & Infrastructure
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+### 🚀 Vibe Coding
+
+![Windsurf](https://img.shields.io/badge/Windsurf-0A84FF?logo=codeium&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+
+### 🔬 AI & Research Tools
+
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+### 📊 Data Analytics
 
 **Data Tools**
 
@@ -73,42 +114,6 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ![Amplitude](https://img.shields.io/badge/Amplitude-000000?logo=amplitude&logoColor=white)
 
 **Data Analysis & Processing:** Requirements Gathering · Process Mapping · Data Cleaning · Data Validation · Exploratory Data Analysis (EDA)
-
----
-
-## 🛠️ Skills
-
-**Languages & Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-**Frameworks & Infrastructure**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-
-**Product & Design Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF69B4?logo=heart&logoColor=white)
-![Bolt](https://img.shields.io/badge/Bolt-FFD700?logo=bolt&logoColor=black)
-
-**Vibe Coding**
-
-![Windsurf](https://img.shields.io/badge/Windsurf-0A84FF?logo=codeium&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
-
-**AI & Research Tools**
-
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-**PM Skills:** Product Strategy · User Research · PRD Writing · Product Teardowns · Wireframing · Metrics & KPIs · Competitive Analysis
 
 ---
 
