@@ -72,6 +72,8 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-000000?logo=amplitude&logoColor=white)
 
+**Data Analysis & Processing:** Requirements Gathering · Process Mapping · Data Cleaning · Data Validation · Exploratory Data Analysis (EDA)
+
 ---
 
 ## 🛠️ Skills
