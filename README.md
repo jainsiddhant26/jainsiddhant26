@@ -33,7 +33,7 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 | Project | Description |
 |---|---|
 | [🎙️ ChatGPT India Voice Strategy](https://github.com/jainsiddhant26/chatgpt-india-voice-strategy) | End-to-end PM case study — market strategy, user survey (n=60), problem framing & PRD for a Review-Before-Send voice feature · [**Live Prototype ↗**](https://chat-confirm-buddy.lovable.app) |
-| [Telegram Smart Follow-up PRD](https://github.com/jainsiddhant26/telegram-smart-followup-prd) | Feature PRD for auto-detecting unanswered chats and suggesting smart follow-up reminders |
+| [Telegram Smart Follow-up PRD](https://github.com/jainsiddhant26/telegram-smart-followup-prd) | Feature PRD for auto-detecting unanswered chats and suggesting smart follow-up reminders · [**Figma Prototype ↗**](https://www.figma.com/make/ppSdqlWkgVEKMrFq1AHOSa/Telegram-Smart-Follow-Up-Reminders?fullscreen=1&t=DAPeMRaTAXhXOlq3-1) |
 | [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb's booking journey, UX decisions, and improvement opportunities |
 | [Make.com Onboarding Teardown](https://github.com/jainsiddhant26/make-onboarding-product-teardown) | Activation flow analysis and friction mapping for Make.com's onboarding |
 | [Nutrition App Wireframes](https://github.com/jainsiddhant26/nutrition-tracking-app-wireframes) | Mid-fidelity wireframes for onboarding, goal setup, and daily food logging |
