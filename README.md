@@ -20,6 +20,18 @@ Strong analytical foundation in SQL, Python, Excel, and GCP — now focused on b
 
 ---
 
+## 🏅 PM Fellowship Certificates
+
+Completed **NextLeap Product Manager Fellowship — Cohort 44**, earning certificates across 3 core modules:
+
+| Module | Issued | Certificate |
+|---|---|---|
+| Systems Thinking & Mapping Outcomes | Dec 2025 | [View ↗](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product-Manager-Fellowship-Systems-Thinking-Mapping-Outcomes.pdf) |
+| User Research & Problem Framing | Jan 2026 | [View ↗](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product-Manager-Fellowship-User-Research-Problem-Framing.pdf) |
+| Prioritisation, Metrics & Growth | Jan 2026 | [View ↗](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product-Manager-Fellowship-Prioritisation-Metrics-Growth.pdf) |
+
+---
+
 ## 📁 Featured Projects
 
 ### 🤖 AI Products
