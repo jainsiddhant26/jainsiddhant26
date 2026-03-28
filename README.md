@@ -45,6 +45,7 @@ Completed **NextLeap Product Manager Fellowship — Cohort 44**, earning certifi
 ### 📋 PM Portfolio
 | Project | Description |
 |---|---|
+| [🎁 GiftRight](https://github.com/jainsiddhant26/GiftRight) | AI gifting confidence tool — Context → Curation → Confidence. User research (n=31 survey + 5 interviews), 10-slide deck, live prototype · [**Live Prototype ↗**](https://gift-right-ai-guide.lovable.app) |
 | [🎤 ChatGPT India Voice Strategy](https://github.com/jainsiddhant26/chatgpt-india-voice-strategy) | End-to-end PM case study — market strategy, user survey (n=60), problem framing & PRD for a Review-Before-Send voice feature · [**Live Prototype ↗**](https://chat-confirm-buddy.lovable.app) |
 | [Telegram Smart Follow-up PRD](https://github.com/jainsiddhant26/telegram-smart-followup-prd) | Feature PRD for auto-detecting unanswered chats and suggesting smart follow-up reminders · [**Figma Prototype ↗**](https://www.figma.com/make/ppSdqlWkgVEKMrFq1AHOSa/Telegram-Smart-Follow-Up-Reminders?fullscreen=1&t=DAPeMRaTAXhXOlq3-1) |
 | [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb's booking journey, UX decisions, and improvement opportunities |
