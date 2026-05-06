@@ -11,7 +11,7 @@ I build AI-powered products that solve real user problems — combining strong a
 
 ---
 
-## 🙽 About Me
+## 🙍 About Me
 
 Product Manager Fellow at **NextLeap**, building skills in user empathy, problem discovery, and outcome-driven product thinking.
 
@@ -34,12 +34,12 @@ Completed **NextLeap Product Manager Fellowship — Cohort 44**, earning certifi
 
 ---
 
-## 📁 Featured Projects
+## 🗂️ Featured Projects
 
 ### 🤖 AI Products
 | Project | Description | Stack |
 |---|---|---|
-| [🎙️ AI Audio Tour Guide](https://github.com/jainsiddhant26/ai-audio-tour) | Multi-agent app that generates a personalized narrated audio tour of any landmark in seconds — [**Live App ↗**](https://ai-audio-tour-bijsbruz3ary4bjsvdofjy.streamlit.app/) | Python, CrewAI, Groq, LlaMa 3.3 70B, Edge-TTS, Streamlit |
+| [🎤 AI Audio Tour Guide](https://github.com/jainsiddhant26/ai-audio-tour) | Multi-agent app that generates a personalized narrated audio tour of any landmark in seconds — [**Live App ↗**](https://ai-audio-tour-bijsbruz3ary4bjsvdofjy.streamlit.app/) | Python, CrewAI, Groq, LlaMa 3.3 70B, Edge-TTS, Streamlit |
 | [🏠 Hindustan Realty AI](https://github.com/jainsiddhant26/AI-Real-Estate-Agent-Team) | Multi-agent property search & investment advisor for Indian real estate — [**Live App ↗**](https://hindustan-realty-ai.streamlit.app/) | Python, Groq, LlaMa 3.3 70B, Firecrawl, Agno, Streamlit |
 | [⚡ News Intel Platform](https://github.com/jainsiddhant26/news-intel-platform) | Real-time financial news monitoring with Multi-Agent AI + RAG — RAG pipeline too heavy for free-tier hosting — run locally | Python, Groq, FinBERT, ChromaDB, Streamlit |
 | [🚀 ScholarMind](https://github.com/jainsiddhant26/ScholarMind-AI-Research-Intelligence-Hub) | AI Research Intelligence Hub — find papers, detect gaps, remember user interests — [**Live App ↗**](https://scholarmind-ai-research-intelligence-app-gxw3bvvb3mbxmhjg4k5cr.streamlit.app/) | Python, RAG, Groq, Supabase, Streamlit |
@@ -48,6 +48,7 @@ Completed **NextLeap Product Manager Fellowship — Cohort 44**, earning certifi
 | Project | Description |
 |---|---|
 | [🎁 GiftRight](https://github.com/jainsiddhant26/GiftRight) | AI gifting confidence tool — Context → Curation → Confidence. User research (n=31 survey + 5 interviews), 10-slide deck, live prototype · [**Live Prototype ↗**](https://gift-right-ai-guide.lovable.app) · [**AI Prompts & Docs ↗**](https://www.notion.so/AI-Prompts-Documentation-GiftRight-32e4e0d023c6818fbacdf60b54cdadd2) |
+| [🧠 SkillSense](https://github.com/jainsiddhant26/SkillSense) | AI-native capability navigator for Claude — helps users decide when to use Skills, Agents, Workflows, or simple prompts. Intent → Decision → Confidence. 10-slide deck, user research, live prototype · [**Live Prototype ↗**](https://skillsense-pattern-a-tkx4.bolt.host) · [**User Flow ↗**](https://www.figma.com/board/Dgr5yNEHNWubyRlllDoKO0/SkillSense-%E2%80%94-User-Flow--styled-) |
 | [🎤 ChatGPT India Voice Strategy](https://github.com/jainsiddhant26/chatgpt-india-voice-strategy) | End-to-end PM case study — market strategy, user survey (n=60), problem framing & PRD for a Review-Before-Send voice feature · [**Live Prototype ↗**](https://chat-confirm-buddy.lovable.app) |
 | [Telegram Smart Follow-up PRD](https://github.com/jainsiddhant26/telegram-smart-followup-prd) | Feature PRD for auto-detecting unanswered chats and suggesting smart follow-up reminders · [**Figma Prototype ↗**](https://www.figma.com/make/ppSdqlWkgVEKMrFq1AHOSa/Telegram-Smart-Follow-Up-Reminders?fullscreen=1&t=DAPeMRaTAXOlq3-1) |
 | [Airbnb Product Teardown](https://github.com/jainsiddhant26/airbnb-product-teardown) | Deep dive into Airbnb's booking journey, UX decisions, and improvement opportunities |
