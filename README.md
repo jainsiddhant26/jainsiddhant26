@@ -13,7 +13,7 @@ I build AI-powered products that solve real user problems — combining strong a
 
 ## 🙍 About Me
 
-Product Manager Fellow at **NextLeap**, building skills in user empathy, problem discovery, and outcome-driven product thinking.
+Product Manager Fellow at **NextLeap** (Cohort 44) — recognized as **⭐ Top Fellow** — building skills in user empathy, problem discovery, and outcome-driven product thinking.
 
 Previously at **CAPCO (supporting HSBC)** in Global Banking — processed and standardised **1.5M+ client records**, automated recurring workflows reducing manual effort by **70%**, and improved data validation across multiple sources for accuracy and compliance.
 
