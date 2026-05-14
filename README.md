@@ -27,7 +27,8 @@ Completed **NextLeap Product Manager Fellowship — Cohort 44**, earning certifi
 
 | Module | Issued | Certificate |
 |---|---|---|
-| 🏆🏅 **Certificate of Completion** | **Apr 2026** | [**View ↗**](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product%20Manager%20Fellowship%20-%20Certificate%20of%20Completion.pdf) |
+| 🏆 **Certificate of Completion** | **Apr 2026** | [**View ↗**](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product%20Manager%20Fellowship%20-%20Certificate%20of%20Completion.pdf) |
+| ⭐ **Top Fellow** | **Apr 2026** | [**View ↗**](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Top%20Fellow%20-%20Certificate.pdf) |
 | Prioritisation, Metrics & Growth | Jan 2026 | [View ↗](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product%20Manager%20Fellowship%20-%20Prioritisation%2C%20Metrics%20%26%20Growth.pdf) |
 | User Research & Problem Framing | Jan 2026 | [View ↗](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product%20Manager%20Fellowship%20-%20User%20Research%20%26%20Problem%20Framing.pdf) |
 | Systems Thinking & Mapping Outcomes | Dec 2025 | [View ↗](https://github.com/jainsiddhant26/nextleap-pm-fellowship-certificates/blob/main/Product%20Manager%20Fellowship%20-%20Systems%20Thinking%20%26%20Mapping%20Outcomes.pdf) |
